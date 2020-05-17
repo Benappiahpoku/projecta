@@ -1,1 +1,1 @@
-this is to test what is happening with git and duplicating a file.
+ well it comes that time when you script writing techniques gets really good
